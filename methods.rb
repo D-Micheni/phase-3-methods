@@ -12,8 +12,8 @@ def greet_programmer
     puts "Hello, #{name}!"
   end
   
-  def add (num1,num2)
-    num1 + num2
+  def add (a,b)
+    a + b
   end
   
   def halve int
